@@ -1,4 +1,4 @@
-// Autho
+// Author
 
 #include <stdio.h>
 
