@@ -1,4 +1,4 @@
-// Author:              Sand
+// Author:              Sandr
 
 #include <stdio.h>
 
