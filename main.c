@@ -1,4 +1,4 @@
-// Author
+// Author:
 
 #include <stdio.h>
 
