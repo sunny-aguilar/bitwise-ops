@@ -1,4 +1,4 @@
-// Author:              Sandro Agu
+// Author:              Sandro Agui
 
 #include <stdio.h>
 
