@@ -5,7 +5,7 @@ int main() {
     printf("Value: %d \n", x & 1);
 
     int y = 4;
-    printf("");
+    printf("Shift left 2: ", y << 2);
 
 
 
