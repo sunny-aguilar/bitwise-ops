@@ -2,7 +2,7 @@
 
 int main() {
     int x = 21;
-    printf();
+    printf("Value: %d", x & 1);
 
 
 
