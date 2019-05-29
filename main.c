@@ -1,5 +1,5 @@
 // Author:              Sandro Aguilar
-// Date:                May 28
+// Date:                May 28,
 
 #include <stdio.h>
 
