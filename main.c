@@ -1,6 +1,6 @@
 // Author:              Sandro Aguilar
 // Date:                May 28, 2019
-// Class:               CS 261 Oregon State Univ
+// Class:               CS 261 Oregon State Unive
 
 #include <stdio.h>
 
