@@ -1,6 +1,6 @@
 // Author:              Sandro Aguilar
 // Date:                May 28, 2019
-// Class:               C
+// Class:               CS
 
 #include <stdio.h>
 
