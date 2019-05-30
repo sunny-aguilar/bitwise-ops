@@ -1,7 +1,7 @@
 // Author:              Sandro Aguilar
 // Date:                May 28, 2019
 // Class:               CS 261 Oregon State University
-// Description:         testing bitwise operat
+// Description:         testing bitwise operato
 
 #include <stdio.h>
 
