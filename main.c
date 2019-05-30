@@ -1,7 +1,7 @@
 // Author:              Sandro Aguilar
 // Date:                May 28, 2019
 // Class:               CS 261 Oregon State University
-// Description:         testing bitwise operators; b
+// Description:         testing bitwise operators; bi
 
 #include <stdio.h>
 
