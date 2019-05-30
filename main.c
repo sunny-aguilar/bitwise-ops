@@ -1,7 +1,7 @@
 // Author:              Sandro Aguilar
 // Date:                May 28, 2019
 // Class:               CS 261 Oregon State University
-// Description:         testing bitwise o
+// Description:         testing bitwise op
 
 #include <stdio.h>
 
