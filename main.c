@@ -1,7 +1,7 @@
 // Author:              Sandro Aguilar
 // Date:                May 28, 2019
 // Class:               CS 261 Oregon State University
-// Description:         testing bitwise operators; bitwise AND operato
+// Description:         testing bitwise operators; bitwise AND operator
 
 #include <stdio.h>
 
