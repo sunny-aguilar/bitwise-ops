@@ -1,7 +1,7 @@
 // Author:              Sandro Aguilar
 // Date:                May 28, 2019
 // Class:               CS 261 Oregon State University
-// Description:         testing bitwise operators; bitwise AND oper
+// Description:         testing bitwise operators; bitwise AND opera
 
 #include <stdio.h>
 
