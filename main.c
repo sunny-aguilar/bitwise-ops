@@ -2,7 +2,7 @@
 // Date:                May 28, 2019
 // Class:               CS 261 Oregon State University
 // Description:         testing bitwise operators; bitwise AND operator for
-//                      finding an odd number u
+//                      finding an odd number us
 
 #include <stdio.h>
 
