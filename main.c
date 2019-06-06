@@ -4,7 +4,6 @@
 // Description:         testing bitwise operators; bitwise AND operator for
 //                      finding an odd number using bitwise operators and using the and operator
 
-
 #include <stdio.h>
 
 int main() {
