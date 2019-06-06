@@ -3,7 +3,7 @@
 // Class:               CS 261 Oregon State University
 // Description:         testing bitwise operators; bitwise AND operator for
 //                      finding an odd number using bitwise operators and using the and operator
-//                      including other bitwise
+//                      including other bitwise o
 
 #include <stdio.h>
 
