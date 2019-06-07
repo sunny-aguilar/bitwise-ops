@@ -14,6 +14,5 @@ int main() {
     int y = 4;
     printf("Shift left 2: %d", y << 1);
 
-
     return 0;
 }
