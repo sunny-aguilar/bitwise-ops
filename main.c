@@ -5,6 +5,7 @@
 //                      finding an odd number using bitwise operators and using the and operator
 //                      including other bitwise operators to test. Bitwise operators are
 
+
 #include <stdio.h>
 
 int main() {
